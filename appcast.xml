@@ -3,10 +3,10 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.0.17</title>
+            <title>Version 1.0.16</title>
             <description>Melhorias na leitura do código de barra / Estoque das filiais ordenados por empresa / Correções diversas</description>
-            <pubDate>Tue, 08 Ago 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.opervarejo.opervarejo_app" sparkle:version="1.0.17" sparkle:os="android" />
+            <pubDate>Tue, 07 Ago 2023 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.opervarejo.opervarejo_app" sparkle:version="1.0.16" sparkle:os="android" />
         </item>
     </channel>
 </rss>
