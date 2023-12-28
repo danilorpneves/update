@@ -3,9 +3,9 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.0.24</title>
-            <description>Melhorias de layout e categoria de produtos</description>
-            <pubDate>Wed, 22 Nov 2023 19:30:00 +0000</pubDate>
+            <title>Version 1.0.25</title>
+            <description>Melhorias na geração do PDF e correções diversas</description>
+            <pubDate>Thu, 26 Dez 2023 06:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.opervarejo.opervarejo_app" sparkle:version="1.0.24" sparkle:os="android" />
         </item>
     </channel>
