@@ -3,9 +3,9 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.0.32</title>
+            <title>Version 1.0.47</title>
             <description>Melhorias de performance</description>
-            <pubDate>Sun, 15 Set 2024 06:00:00 +0000</pubDate>
+            <pubDate>Sun, 23 Mar 2025 06:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.opervarejo.opervarejo_app" sparkle:version="1.0.32" sparkle:os="android" />
         </item>
     </channel>
